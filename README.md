@@ -1,5 +1,5 @@
 # EProxy
-Simple proxy server (improved server from [medium](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c).
+Simple proxy server (improved server from [medium](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c ).
 
 # Configuration
 Proxy has 4 startup params. To get help you have to run app with **-h** flag.
